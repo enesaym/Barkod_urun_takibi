@@ -1,4 +1,4 @@
-#MUHAMMET ENES AY 19010011077
+#MUHAMMET ENES AY 
 import time
 urunler = dict()
 keyler=[]         # unique barkod numaralari olusturmak için kontrol saglıyor
